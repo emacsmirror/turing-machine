@@ -2,8 +2,8 @@
 
 ;; Copyright (C) 2017 Diego A. Mundo
 ;; Author: Diego A. Mundo <diegoamundo@gmail.com>
-;; URL: http://github.com/therockmandolinist/turing-machine
-;; Git-Repository: git://github.com/therockmandolinist/turing-machine
+;; URL: https://sr.ht/~dieggsy/turing-machine
+;; Git-Repository: https://git.sr.ht/~dieggsy/turing-machine
 ;; Created: 2017-05-04
 ;; Version: 0.2.0
 ;; Keywords: turing machine simulation
